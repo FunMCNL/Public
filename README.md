@@ -1,2 +1,2 @@
-# PublicConfigs
-Public configuration files
+# Public
+Public files
